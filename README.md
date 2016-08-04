@@ -5,4 +5,4 @@ I added a ajax function to save database ,
 dynamic for different element .
 
 JS Fiddle link: 
-http://jsfiddle.net/egstudio/aFMWg/1/
+https://jsfiddle.net/mahbub_cse/1cv02k3z/
